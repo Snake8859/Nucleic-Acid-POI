@@ -1,0 +1,7 @@
+__pycache__
+hs-demo/node_modules/
+hs-demo/dist/
+test
+docs/
+*.log
+*.qgz
